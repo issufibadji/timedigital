@@ -1,6 +1,6 @@
-# Mytime
+# Timedigital
 <h1 align="center" color=" ">
-   ProfileIssufiBadji
+   Timedigital
 </h1>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 <p align="center">
    
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/mytime?style=flat-square">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/timedigital?style=flat-square">
 
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/mytime?style=flat-square">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/timedigital?style=flat-square">
 
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/mytime?style=flat-square">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/timedigital?style=flat-square">
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/mytime?style=flat-square">
+   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/timedigital?style=flat-square">
 </p>
 
 ![timedigital](https://github.com/issufibadji/timedigital/blob/master/timedigital.png)
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/5958443-Alarm-clock) para acessá-lo.
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/mytime/blob/master/LINCENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/timedigital/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
