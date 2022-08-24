@@ -22,7 +22,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/mytime?style=flat-square">
 </p>
 
-![timedigital](https://github.com/issufibadji/github-user/blob/master/timedigital.png)
+![timedigital](https://github.com/issufibadji/timedigital/blob/master/timedigital.png)
 
 ## :book: Sobre
 O **Mytime**
