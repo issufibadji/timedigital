@@ -25,8 +25,8 @@
 ![timedigital](https://github.com/issufibadji/timedigital/blob/master/timedigital.png)
 
 ## :book: Sobre
-O **Mytime**
- é um projeto de relógio, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [Alarm clock](https://dribbble.com/shots/5958443-Alarm-clock)
+O **Timedigital**
+ é um projeto de relógio digital, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [Alarm clock](https://dribbble.com/shots/5958443-Alarm-clock)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
